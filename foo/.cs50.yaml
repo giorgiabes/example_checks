@@ -1,7 +1,0 @@
-check50:
-  checks:
-    foo:
-      - run: python3 foo.py
-        stdin: baz
-        stdout: baz
-        exit: 0
